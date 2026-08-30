@@ -1,4 +1,4 @@
-# Icinga 2 + InfluxDB + Grafana Monitoring Dashboards
+# Icinga 2 + InfluxDB + Grafana Monitoring Dashboards (IN Progress)
 
 A simple infrastructure monitoring project using **Icinga 2**, **InfluxDB**, and **Grafana**.
 
